@@ -1,0 +1,73 @@
+---
+latitude: '40.750613'
+longitude: "-73.977095"
+map_zoom: 12
+name: Demo Hotel
+email: support@traveltripper.com
+phone_number: 123-123-1234
+address:
+  street1: Lexington Ave
+  state: NY
+  city: New York
+  zip_code: 
+default_currency: USD
+default_timezone: America/New_York
+_hotel_id: RAHUL
+_portal_id: Rahul
+__EDITABLE_FIELDS__:
+  name:
+    required: true
+  logo:
+    type: image
+  email:
+    type: string
+  phone:
+    type: string
+  default_currency:
+    required: true
+  address:
+    type: complex
+    fields:
+      street1:
+        type: string
+      state:
+        type: string
+      city:
+        type: string
+      zip_code:
+        type: string
+  google_location:
+    type: location
+  map_zoom:
+    type: integer
+  latitude:
+    type: float
+  longitude:
+    type: float
+logo:
+  name: Airial_View2_R
+  content_type: image/jpeg
+  date_added: 2019-10-29-164358
+  url_thumb: "//res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_426,w_1283,x_20,y_623/c_fill,g_faces,h_140,w_140/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  url_xsmall: "//res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_426,w_1283,x_20,y_623/c_fit,h_300,w_300/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  url_small: "//res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_426,w_1283,x_20,y_623/c_fit,h_768,w_768/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  url_medium: "//res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_426,w_1283,x_20,y_623/c_fit,h_992,w_992/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  url_large: "//res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_426,w_1283,x_20,y_623/c_fit,h_1200,w_1200/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  url_xlarge: "//res.cloudinary.com/traveltripperweb/image/upload/c_crop,h_426,w_1283,x_20,y_623/c_limit,h_1920,w_1920/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  url: "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_2500,w_2500/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  width: 1786
+  height: 1339
+  format: jpg
+  url_raw: "//res.cloudinary.com/traveltripperweb/image/upload/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  resource_type: image
+  size: 616070
+  git_file_name: _assets/image_data/Airial-View2-R.jpg.json
+  path: "//res.cloudinary.com/traveltripperweb/image/upload/c_limit,h_2500,w_2500/v1572381838/rvveu3kecs5arsfwd33d.jpg"
+  file_size: 
+  alt: Airial_View2_R
+  crop:
+    origin:
+      x: 20
+      y: 623
+    width: 1283
+    height: 426
